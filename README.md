@@ -7,7 +7,7 @@ Potholes have become a huge problem for most drivers. With the South African gov
 The objective of this challenge was to create a machine learning model to accurately predict the likelihood that an image contains a pothole.
 
 Methodolgy:
-The dataset consisted of 
+The dataset consisted of more than 5000 images consisting of both train and test. Train dataset was further sub divided into train and validation. Model was trained on train set and validated on validation dataset. Different pre-trained architectures were used for evaluation. Finally, Resnet 152v2 gave the best result.
 
 
 
